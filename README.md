@@ -81,7 +81,7 @@ Vue3 + Vite + highlight.js + vue-plugin-markdown
 9. 编写deploy.sh脚本文件自动部署github-pages静态页面。
 10. 构建好的package发布到npm上。
 
-# 自我评价自我评价
+# 自我评价
  1. 平时有写博客的习惯，记录看到的知识点、开发过程中的难点。
 
  2. 对技术保持一定追新，如游览稀土掘金、关注尤雨溪动态。
